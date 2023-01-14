@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320543098362",
+    "project_id": "libra-366812",
+    "storage_bucket": "libra-366812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320543098362:android:4cc9aab64478d8ac889043",
+        "android_client_info": {
+          "package_name": "com.example.libra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320543098362-h2qjejk5h7e27ni4vap6cr2c7p7k3hfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQNJfuWwZfcaQTBD4pplD_GWVo8Ho2Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320543098362-h2qjejk5h7e27ni4vap6cr2c7p7k3hfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
